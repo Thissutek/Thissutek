@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Jonathan 
 
-**`Creative Developer (Developer/Creative Designer)`**
+**`Creative Fullstack Developer (Developer/Creative Designer)`**
 
-I'm a creative developer who blends design and code to build seamless, interactive digital experiences. With a strong eye for motion, detail, and usability, I bring interfaces to life through animation, transitions, and thoughtful micro-interactions. Whether it's enhancing UX with subtle motion or crafting immersive web narratives, I aim to make the web not just usable — but memorable
+I'm a creative fullstack developer who blends design and code to build seamless, interactive digital experiences. With a strong eye for motion, detail, and usability, I bring interfaces to life through animation, transitions, and thoughtful micro-interactions. Whether it's enhancing UX with subtle motion or crafting immersive web narratives, I aim to make the web not just usable — but memorable
 
 ---
 
